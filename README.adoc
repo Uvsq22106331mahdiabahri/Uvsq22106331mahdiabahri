@@ -1,9 +1,9 @@
 
 = Exercices
 
-N° Etudiant : 22107541 +
-Nom : OUHOCINE +
-Prénom : SARAH +
+N° Etudiant : 22203363 +
+Nom : ABAHRI +
+Prénom : EL_mahdi+
 
 [IMPORTANT]
 ====
@@ -159,7 +159,7 @@ La méthode `run` de cette classe interagira avec l'interface utilisateur pour r
 
 *Capture de l'interface (ligne de commande)*
 
-image::C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\CaptureInterface.png[]
+image::C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22203363\CaptureInterface.png[]
 
 == Logiciel de "dessin"
 Le but de cet exercice est de réaliser un logiciel de dessin 2D.
